@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Amazing Spiderman</fullName>
+        <default>false</default>
+        <label>Amazing Spiderman</label>
+    </customValue>
+    <customValue>
+        <fullName>Thor</fullName>
+        <default>false</default>
+        <label>Thor</label>
+    </customValue>
+    <customValue>
+        <fullName>West Coast Avengers</fullName>
+        <default>false</default>
+        <label>West Coast Avengers</label>
+    </customValue>
+    <customValue>
+        <fullName>Uncanny X-Men</fullName>
+        <default>false</default>
+        <label>Uncanny X-Men</label>
+    </customValue>
+    <masterLabel>Titles</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
